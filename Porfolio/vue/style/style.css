@@ -467,6 +467,7 @@ footer{
 .--description-certification{
     background-color: beige;
     position: relative;
+    
 
 }
 .conteneur--unic-certif{
@@ -530,6 +531,9 @@ flex-wrap: wrap;
     padding-top: 1em;
     margin-bottom: 5em;
     color: blueviolet;
+    margin-right: 20px;
+    margin-left: 20px;
+    
 }
 
 
