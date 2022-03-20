@@ -253,6 +253,7 @@ footer{
 .conteneur-log{
     display: flex;
     justify-content: center;
+    margin-left: 100px;
     margin-top: 10px;
     margin-bottom: 0px;
 
@@ -581,8 +582,16 @@ flex-wrap: wrap;
 
 }
 
+.solution3{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden;
+}
 
-
+.solution2{
+    margin: 30px;
+}
 
 
 .-center{
@@ -707,11 +716,7 @@ input {
     margin-top: 20px;
 }
 
-.conteneur--image-form {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 
 .ico2 {
     width: 90px;
