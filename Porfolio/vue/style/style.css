@@ -638,6 +638,18 @@ flex-wrap: wrap;
 
 }
 
+.solution4{
+    display: flex;
+    flex-direction: column;
+    margin-top: 85px;
+}
+
+
+
+
+
+
+
 legend {
     margin-bottom: 20px;
     margin-top: 20px;
