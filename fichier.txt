@@ -1,0 +1,271 @@
+<section class="conteneur--global--certif">
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Apprenez à apprendre</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base de programmation python sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">initiez-vous à l'intelligence artificielle</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Effectuez votre veille en cybersécurité</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Mettez en place un système de veille informationnelle</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Protégez les données personnelles</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Auditez la sécurité d'un système d'exploitation</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Concevez votre réseau TCP/IP</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Protégez vos systèmes numériques connectés grâce aux 12 bonnes pratiques de l'ANSSI</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">S'initier à la robotique</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Découvrir la programmation créative</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Concevez votre réseau TCP/IP</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Faites vos premiers pas dans le monde de l’électronique numérique</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Apprenez la programmation orientée objet avec Python</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Mettez en place votre environnement Python</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Apprenez les bases du langage Python</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Implémentez vos bases de données relationnelles avec SQL</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Programmez en orienté objet en PHP</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Concevez votre site web avec PHP et MySQL</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Adoptez une architecture MVC en PHP</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Initiez-vous à Linux</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Apprenez à programmer avec JavaScript</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Découvrez le fonctionnement des algorithmes</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Apprenez à créer votre site web avec HTML5 et CSS3</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Simplifiez-vous le CSS avec Sass</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Gérez du code avec Git et GitHub</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Utilisez HTML5 pour l'interface utilisateur</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Introduction à jQuery</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Développez votre leadership pour mieux diriger</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Apprenez les bases du langage Python</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Gérez du code avec Git et GitHub</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Apprenez à utiliser la ligne de commande dans un terminal</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Initiez-vous à la gestion de projet agile</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Gérez un projet digital avec une méthodologie en cascade</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Initiez-vous au Design Thinking</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Découvrez la méthodologie DevOps</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Réalisez un cahier des charges fonctionnel</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Découvrez les fondamentaux du BIM</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                        <div class="conteneur--Certif">
+                            <div class="--certif --alice-conteneur">
+                                <div class="conteneur-titre-certif"><h2 class="titre-certif">Découpez et intégrez une maquette</h2></div>
+                                <div class="description--certif "><h4 class="description-certif">Certification base d'intelligence artificielle sur OpenClassrooms</h4></div>
+                                <div><a href=""><button class="button">Voir</button></a></div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </section>
+        </section>
