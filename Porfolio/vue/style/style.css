@@ -254,7 +254,9 @@ footer{
     margin-right: 1.5em;
 }
 
-
+i{
+    font-size: 18px;
+}
 
 .conteneur-log{
     display: flex;
